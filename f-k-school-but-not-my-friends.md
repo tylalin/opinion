@@ -6,4 +6,8 @@
 
 ဒါကြောင့်လည်း အခုအချိန်ထိ အဲ့ကျောင်းတွေက ကိုယ့်အပေါ်မှာဘာကျေးဇူးမှမရှိဘူးလို့ မြင်လာတယ်။ အချိန်တန်ရင် ကိုယ့်ပညာတက်စေချင် ပညာသင်နေတာထက်၊ ငွေကြေးအတွက် အမျိုးမျိုး ငွေညစ်တာမျိုးလို့ပဲထင်တယ်။ ရှင်းရှင်းပြောရရင် ဘာစောက်ကျေးဇူးမှရှိတာမဟုတ်ဘူး။ ကိုယ့်ကို နှိပ်စက်တယ်၊ ငွေညစ်တယ်၊ အချိန်တန်ရင် ဆရာကတော့ပွဲဆိုတော့ ကတော့ခံတယ်။ ကိုယ်တွေမှာတော့ ကြိုက်ကြိုက်မကြိုက်ကြိုက် ဒူးလေးတုပ်ပြီးတော့ အိမ်ကထည့်ပေးလိုက်တဲ့ ပါတိတ်လေးနဲ့ မုန့်ပုံးလေးနဲ့ ထိုင်ထိုင်ကတော့ရတယ်။ တော်တော်လေးကို စောက်ရေးမပါတဲ့ဟာတွေနဲ့ လူငယ်ဘဝတွေကို ဖြတ်သန်းပစ်ခဲ့ရတယ်။ ကျားပေါက်ရဲ့ podcast ကို နားထောင်ရင်း စိတ်ထဲမှာ အခဲမကြေလို့ ချရေးလိုက်ပစ်ရတယ်။ တောက်...
 
-[https://anchor.fm/92.yomama/episodes/Fk-School-But-Not-My-Friends-III-e1t53o6/a-a94v950](https://anchor.fm/92.yomama/episodes/Fk-School-But-Not-My-Friends-III-e1t53o6/a-a94v950)
+{% embed url="https://anchor.fm/92.yomama/episodes/Fk-School-But-Not-My-Friends-e1s0bnc/a-a9101u1" %}
+
+{% embed url="https://anchor.fm/92.yomama/episodes/Fk-School-But-Not-My-Friends-II-e1sb77a/a-a929lb0" %}
+
+{% embed url="https://anchor.fm/92.yomama/episodes/Fk-School-But-Not-My-Friends-III-e1t53o6/a-a94v950" %}
